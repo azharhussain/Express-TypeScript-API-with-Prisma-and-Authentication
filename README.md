@@ -2,29 +2,39 @@
 
 This project is a RESTful API built with Express.js and TypeScript, using Prisma ORM for database operations and JWT for authentication. It includes CRUD operations for posts and user authentication.
 
-## Features
+<p align="center">
+  <a href="#features">Features</a> •
+  <a href="#prerequisites">Prerequisites</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#api-documentation">API Docs</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#license">License</a>
+</p>
 
-- User registration and login
-- JWT-based authentication
-- CRUD operations for posts
-- PostgreSQL database with Prisma ORM
-- Swagger API documentation
-- Error handling and logging
-- CORS support
+## 🚀 Features
 
-## Prerequisites
+- 👤 User registration and login
+- 🔐 JWT-based authentication
+- 📝 CRUD operations for posts
+- 🐘 PostgreSQL database with Prisma ORM
+- 📚 Swagger API documentation
+- 🚨 Comprehensive error handling and logging
+- 🌐 CORS support
 
-Before you begin, ensure you have met the following requirements:
+## 📋 Prerequisites
+
+Before you begin, ensure you have the following installed:
 
 - Node.js (v14 or later)
 - npm or yarn
-- PostgreSQL database (We're using Neon Postgres in this project)
+- PostgreSQL database (We're using Neon Postgres)
 
-## Installation
+## 🛠 Installation
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/azharhussain/Express-TypeScript-API-with-Prisma-and-Authentication.git
 cd your-repo-name
 
 2. Install the dependencies:
