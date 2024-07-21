@@ -102,4 +102,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-If you have any questions or feedback, please contact Azhar Hussain at azharfastian@gmail.com.
+If you have any questions or feedback, please contact Azhar Hussain (https://www.azharhussain.net) at azharfastian@gmail.com.
